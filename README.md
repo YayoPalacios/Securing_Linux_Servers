@@ -1,8 +1,8 @@
-# Securing Linux Servers Cheat Sheet
+# Securing Linux Servers - Cheat Sheet
 
 This cheat sheet provides a quick reference for securing Linux servers.
 
-| **Action**                              |
+| **Tasks**                              |
 |----------------------------------------|
 | Initial Server Setup                   |
 | - Log in to the server using SSH        |
