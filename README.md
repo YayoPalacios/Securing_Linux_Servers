@@ -45,5 +45,3 @@ This cheat sheet provides a quick reference for securing Linux servers.
 | Backups                                |
 | - Regularly backup server data and configuration |
 | - Store backups in a secure off-site location |
-
-[Imgur](https://imgur.com/Z02MIP0)
